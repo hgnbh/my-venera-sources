@@ -20,7 +20,7 @@ class ExampleSource extends ComicSource {
   version = "1.0.0";
   minAppVersion = "1.0.0";
   // 本文件公开访问地址（push 到 GitHub 后用 jsDelivr 生成）
-  url = "https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@main/example.js";
+  url = "https://cdn.jsdelivr.net/gh/HGNBH/my-venera-sources@main/example.js";
 
   // 站点常量（按需修改）
   static baseUrl = "https://example.com";
