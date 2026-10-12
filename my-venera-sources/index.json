@@ -1,0 +1,9 @@
+[
+  {
+    "name": "示例漫画源",
+    "fileName": "example.js",
+    "key": "example",
+    "version": "1.0.0",
+    "description": "一个最小可用的 Venera 漫画源模板，复制后改成你自己的网站即可"
+  }
+]
